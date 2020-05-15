@@ -8,5 +8,5 @@ public class SampleClass {
     @auraEnabled
     public static list<String> getStrings(){
         return new list<String>{'Krishna','Ram'};
-            }
+    }
 }
